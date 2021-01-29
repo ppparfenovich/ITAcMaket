@@ -1,0 +1,28 @@
+.title {
+    margin-top: 0;
+    line-height: 1.6;
+}
+
+.title__large {
+    margin-bottom: 15px;
+    font-weight: 900;
+    font-size: 56px;
+}
+
+.title__middle {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.title__middle-bold {
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+@media (max-width: 520px) {
+    .title__large {
+        font-size: 36px;
+    }
+}

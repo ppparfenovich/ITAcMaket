@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap');
+@import "./normalize.css";
+
+/* layout */
+@import "./layout/base.css";
+
+/* Components */
+@import "./components/header.css";
+@import "./components/footer.css";
+
+/* pages */ 
+@import "./pages/home.css";
+
+/* ui */
+@import "./ui/title.css";
+
+
+
+
